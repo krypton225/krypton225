@@ -9,6 +9,8 @@
 
 - ✨ I like programming with web programming languages.
 
+- ✨ I am still studying web programming languages and frameworks to improve my level.
+
 - ✨ Do you need my email to contact?<br>
 👉 **khaled.mohamed22598@gmail.com**
 
