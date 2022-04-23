@@ -1,3 +1,5 @@
+<!-- First of all; I benefited from placing this file by: @Adam-pw -->
+
 <h1 align="center">Hi 👋 I'm Khaled Mohamed</h1>
 <h3 align="center">I'm a Front End Developer</h3>
 
@@ -11,24 +13,32 @@
 
 - ✨ I am still studying web programming languages and frameworks to improve my level.
 
-- ✨ Do you need my email to contact?<br>
-👉 **khaled.mohamed22598@gmail.com**
-
 - ✨ Facts: Reading books and like to listen to lectures.
 
 <br>
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/khaledmohamed138/" target="blank"><img align="center"
+  <a href="khaled.mohamed22598@gmail.com" target="blank">
+    <img align="center"
+      src="https://user-images.githubusercontent.com/73050798/164912188-bb0caf07-c899-427a-97ef-43b95655e009.svg"
+      alt="adam pithen wala" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/khaledmohamed138/" target="blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/khaled.mohamed14813" target="blank"><img align="center"
+      alt="adam pithewan" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/khaled.mohamed14813" target="blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
- <a href="https://twitter.com/5aled_mido" target="blank"><img align="center"
+      alt="adam pithen wala" height="30" width="40" />
+  </a>
+ <a href="https://twitter.com/5aled_mido" target="blank">
+   <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
+      alt="adampithewan" height="30" width="40" />
+  </a>
 </p>
 
 <br>
