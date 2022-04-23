@@ -7,7 +7,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Khaled Mohamed" /></p>
 
 
-- ✨ I like learning web development and other web programming languages!
+- ✨ I like programming with web programming languages.
 
 - ✨ Do you need my email to contact?<br>
 👉 **khaled.mohamed22598@gmail.com**
@@ -59,15 +59,14 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" />
        </a>
-      <a href="https://fontawesome.com/" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/73050798/164911426-cbc4cb6b-1713-4024-932f-c4331d6f3c6a.png"
-                alt="bootstrap" width="40" height="40" />
-       </a>
-        
 </p>
 
 <h3 align="left">Tools:</h3>
 <p align="left">
+        <a href="https://fontawesome.com/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/73050798/164911426-cbc4cb6b-1713-4024-932f-c4331d6f3c6a.png"
+                alt="bootstrap" width="40" height="40" />
+       </a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
             <img src="https://user-images.githubusercontent.com/73050798/164910763-552e46b6-6cf2-49db-8f90-3b5e2a2ab2bf.svg"
                 alt="javascript" width="40" height="40" />
@@ -76,8 +75,11 @@
             <img src="https://user-images.githubusercontent.com/73050798/164911013-a65fe1d0-941f-4230-a206-c6ccf00f02f4.png"
                 alt="javascript" width="40" height="40" />
         </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/73050798/164911838-a9d50ce1-8f82-4832-ae99-a3058abbd122.svg"
+                alt="javascript" width="40" height="40" />
+        </a>
+  
 </p>
 
 <br>
-
-[Khaled Mohamed](https://github.com/krypton225)
