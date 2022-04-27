@@ -19,7 +19,7 @@
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-  <a href="khaled.mohamed22598@gmail.com" target="blank">
+  <a href="mailto:khaled.mohamed22598@gmail.com" target="blank">
     <img align="center"
       src="https://user-images.githubusercontent.com/73050798/164912188-bb0caf07-c899-427a-97ef-43b95655e009.svg"
       alt="adam pithen wala" height="30" width="40" />
