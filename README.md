@@ -18,7 +18,9 @@
 <br>
 
 <h3 align="left">Contact with me:</h3>
+
 <p align="left">
+  
   <a href="mailto:khaled.mohamed22598@gmail.com" target="_blank">
     <img align="center"
       src="https://user-images.githubusercontent.com/73050798/164912188-bb0caf07-c899-427a-97ef-43b95655e009.svg"
@@ -44,6 +46,7 @@
 <br>
 
 <h3 align="left">Languages:</h3>
+
 <p align="left">
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -74,24 +77,28 @@
 </p>
 
 <h3 align="left">Tools:</h3>
+
 <p align="left">
-        <a href="https://fontawesome.com/" target="_blank" rel="noreferrer">
+        <a href="https://fontawesome.com/" target="_blank" rel="noreferrer" title="Fontawesome" style="display:inline-block; margin: 0 10px;">
             <img src="https://user-images.githubusercontent.com/73050798/164911426-cbc4cb6b-1713-4024-932f-c4331d6f3c6a.png"
-                alt="bootstrap" width="40" height="40" />
+                alt="Fontawesome" width="40" height="40" />
        </a>
-        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code" style="display:inline-block; margin: 0 10px;">
             <img src="https://user-images.githubusercontent.com/73050798/164910763-552e46b6-6cf2-49db-8f90-3b5e2a2ab2bf.svg"
-                alt="javascript" width="40" height="40" />
+                alt="Visual Studio Code" width="40" height="40" />
         </a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+        <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer" title="Jetbrains" style="display:inline-block; margin: 0 10px;">
             <img src="https://user-images.githubusercontent.com/73050798/164911013-a65fe1d0-941f-4230-a206-c6ccf00f02f4.png"
-                alt="javascript" width="40" height="40" />
+                alt="Jetbrains" width="40" height="40" />
         </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git" style="display:inline-block; margin: 0 10px;">
             <img src="https://user-images.githubusercontent.com/73050798/164911838-a9d50ce1-8f82-4832-ae99-a3058abbd122.svg"
-                alt="javascript" width="40" height="40" />
+                alt="Git" width="40" height="40" />
         </a>
-  
+        <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer" title="Webstorm" style="display:inline-block; margin: 0 10px;">
+            <img src="https://user-images.githubusercontent.com/73050798/171990703-e7be2bc5-bfb6-4fdf-bd6e-6466e306138d.svg"
+                alt="Webstorm" width="40" height="40" />
+        </a>
 </p>
 
 <br>
