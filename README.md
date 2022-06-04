@@ -87,17 +87,21 @@
             <img src="https://user-images.githubusercontent.com/73050798/164910763-552e46b6-6cf2-49db-8f90-3b5e2a2ab2bf.svg"
                 alt="Visual Studio Code" width="40" height="40" />
         </a>
+        <a href="https://atom.io/" target="_blank" rel="noreferrer" title="Atom" style="display:inline-block; margin: 0 10px;">
+            <img src="https://user-images.githubusercontent.com/73050798/171990944-5e2977f1-670a-4f8c-b7ea-889b5e747d29.svg"
+                alt="Webstorm" width="40" height="40" />
+        </a>
         <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer" title="Jetbrains" style="display:inline-block; margin: 0 10px;">
             <img src="https://user-images.githubusercontent.com/73050798/164911013-a65fe1d0-941f-4230-a206-c6ccf00f02f4.png"
                 alt="Jetbrains" width="40" height="40" />
         </a>
-        <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git" style="display:inline-block; margin: 0 10px;">
-            <img src="https://user-images.githubusercontent.com/73050798/164911838-a9d50ce1-8f82-4832-ae99-a3058abbd122.svg"
-                alt="Git" width="40" height="40" />
-        </a>
         <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer" title="Webstorm" style="display:inline-block; margin: 0 10px;">
             <img src="https://user-images.githubusercontent.com/73050798/171990703-e7be2bc5-bfb6-4fdf-bd6e-6466e306138d.svg"
                 alt="Webstorm" width="40" height="40" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer" title="Git" style="display:inline-block; margin: 0 10px;">
+            <img src="https://user-images.githubusercontent.com/73050798/164911838-a9d50ce1-8f82-4832-ae99-a3058abbd122.svg"
+                alt="Git" width="40" height="40" />
         </a>
 </p>
 
