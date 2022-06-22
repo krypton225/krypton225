@@ -20,26 +20,10 @@
 <h3 align="left">Contact with me:</h3>
 
 <p align="left">
-  
-  <a href="mailto:khaled.mohamed22598@gmail.com" target="_blank">
-    <img align="center"
-      src="https://user-images.githubusercontent.com/73050798/164912188-bb0caf07-c899-427a-97ef-43b95655e009.svg"
-      alt="adam pithen wala" height="30" width="40" />
-  </a>
   <a href="https://www.linkedin.com/in/khaledmohamed138/" target="_blank">
     <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="adam pithewan" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/khaled.mohamed14813" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" />
-  </a>
- <a href="https://twitter.com/krypton_31" target="_blank">
-   <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" />
   </a>
 </p>
 
