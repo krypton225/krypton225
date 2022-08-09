@@ -63,10 +63,6 @@
 <h3 align="left">Tools:</h3>
 
 <p align="left">
-        <a href="https://fontawesome.com/" target="_blank" rel="noreferrer" title="Fontawesome" style="display:inline-block; margin: 0 10px;">
-            <img src="https://user-images.githubusercontent.com/73050798/164911426-cbc4cb6b-1713-4024-932f-c4331d6f3c6a.png"
-                alt="Fontawesome" width="40" height="40" />
-       </a>
         <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" title="Visual Studio Code" style="display:inline-block; margin: 0 10px;">
             <img src="https://user-images.githubusercontent.com/73050798/164910763-552e46b6-6cf2-49db-8f90-3b5e2a2ab2bf.svg"
                 alt="Visual Studio Code" width="40" height="40" />
