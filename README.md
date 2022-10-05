@@ -44,6 +44,10 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
         </a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/73050798/194060902-33c234aa-f984-46fb-8339-2d3fe5668352.svg" alt="sass"
+                width="40" height="40" />
+        </a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
                 width="40" height="40" />
