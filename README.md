@@ -40,13 +40,17 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
                 alt="css3" width="40" height="40" />
         </a>
+        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/73050798/194060902-33c234aa-f984-46fb-8339-2d3fe5668352.svg" alt="sass"
+                width="40" height="40" />
+        </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                 alt="javascript" width="40" height="40" />
         </a>
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-            <img src="https://user-images.githubusercontent.com/73050798/194060902-33c234aa-f984-46fb-8339-2d3fe5668352.svg" alt="sass"
-                width="40" height="40" />
+        <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer">
+            <img src="https://user-images.githubusercontent.com/73050798/194061683-06fa6e94-2546-4229-a5ad-3fbd2a09b185.svg" alt="typescript"
+                 width="40" height="40" />
         </a>
         <a href="https://www.java.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
