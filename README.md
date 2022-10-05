@@ -91,6 +91,10 @@
             <img src="https://user-images.githubusercontent.com/73050798/164911838-a9d50ce1-8f82-4832-ae99-a3058abbd122.svg"
                 alt="Git" width="40" height="40" />
         </a>
+        <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer" title="NPM" style="display:inline-block; margin: 0 10px;">
+            <img src="https://user-images.githubusercontent.com/73050798/194062722-bed93466-66c4-40ff-9157-ad7aa71b4917.svg"
+                alt="NPM" width="40" height="40" />
+        </a>
 </p>
 
 <br>
