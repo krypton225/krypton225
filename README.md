@@ -67,7 +67,6 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" />
        </a>
-       
        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
             <img src="https://user-images.githubusercontent.com/73050798/198878685-3c35ae58-5153-4317-a9a8-974d31b90019.svg"
                 alt="React JS" width="40" height="40" />
