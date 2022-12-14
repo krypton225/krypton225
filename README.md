@@ -63,15 +63,15 @@
 
 <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
-       <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+       <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React JS">
             <img src="https://user-images.githubusercontent.com/73050798/206855050-2a1ad1ed-ea68-4fe3-9331-8589e53cdec8.svg"
                 alt="React JS" width="40" height="40" />
        </a>
-       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
             <img src="https://user-images.githubusercontent.com/73050798/206854925-7fc4a019-63c8-42fa-a2a8-8d387db662d6.svg"
                 alt="Tailwind CSS" width="40" height="40" />
        </a>
-        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" title="Bootstrap">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
                 alt="bootstrap" width="40" height="40" />
        </a>
