@@ -1,14 +1,17 @@
 <!-- First of all; I benefited from placing this file by: @Adam-pw -->
+<div>
+    <h1 align="center">Hi 👋 I'm Khaled Mohamed</h1>
+    <h3 align="center">I'm a Front End Developer</h3>
+    <h3 align="center">I'm still learning React JS</h3>
+</div>
 
-<h1 align="center">Hi 👋 I'm Khaled Mohamed</h1>
-<h3 align="center">I'm a Front End Developer</h3>
-<h3 align="center">I'm still learning React JS</h3>
+<p align="center" style="width: 100%; text-align: center;">
 
-<br>
-<br>
+   ![Profile views](https://gpvc.arturio.dev/krypton225)
+   
+</p>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Khaled Mohamed" /></p>
-
 
 - ✨ I like programming with web programming languages.
 
