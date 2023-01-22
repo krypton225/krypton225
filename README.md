@@ -103,3 +103,11 @@
                 alt="Yarn" width="40" height="40" />
         </a>
 </p>
+
+<br /><br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krypton225&theme=dracula&layout=compact&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+
+![Khaled Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=krypton225&show_icons=true&theme=dracula)
