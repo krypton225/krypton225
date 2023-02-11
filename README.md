@@ -5,11 +5,13 @@
     <h3 align="center">I'm still learning React JS</h3>
 </div>
 
-<p align="center" style="width: 100%; text-align: center;">
+![Profile Views](https://komarev.com/ghpvc/?username=krypton225&style=flat&color=118ab2)
+
+<!-- <p align="center" style="width: 100%; text-align: center;">
 
    ![Profile views](https://gpvc.arturio.dev/krypton225)
    
-</p>
+</p> -->
 
 - ✨ I like programming with web programming languages.
 
