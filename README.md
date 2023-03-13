@@ -2,7 +2,6 @@
 <div>
     <h1 align="center">Hi 👋 I'm Khaled Mohamed</h1>
     <h3 align="center">I'm a Front End Developer</h3>
-    <h3 align="center">I'm still learning React JS</h3>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=krypton225&style=flat&color=118ab2)
