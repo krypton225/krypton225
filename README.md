@@ -1,6 +1,6 @@
 <!-- First of all; I benefited from placing this file by: @Adam-pw -->
 <div>
-    <h1 align="center">Hi 👋 I'm Khaled Mohamed</h1>
+    <h1 align="center">Hi 👋 My name is Khaled Mohamed</h1>
     <h3 align="center">I'm a Front End Developer</h3>
 </div>
 
